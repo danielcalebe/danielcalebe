@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Daniel Calebe e aqui eu compartilho um po
 - Segurança em [EndPoint](https://aws.amazon.com/pt/what-is/endpoint-security/).
 
 ### 📫 Como me encontrar:
-- **Email**: [daniel.calebe@example.com](mailto:danielcalebe719@gmail.com)
+- **Email**: [danielcalebe719@gmail.com](mailto:danielcalebe719@gmail.com)
 - **LinkedIn**: [Daniel Calebe](https://www.linkedin.com/in/daniel-calebe/)
 
 ### 😄 Pronomes:
