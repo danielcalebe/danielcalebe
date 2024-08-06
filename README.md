@@ -10,9 +10,6 @@ Bem-vindo ao meu perfil no GitHub! Sou Daniel Calebe e aqui eu compartilho um po
 - **Email**: [danielcalebe719@gmail.com](mailto:danielcalebe719@gmail.com)
 - **LinkedIn**: [Daniel Calebe](https://www.linkedin.com/in/daniel-calebe/)
 
-### 😄 Pronomes:
-- Ele/Dele
-
 ---
 
 ### 🛠 Tecnologias e Linguagens
