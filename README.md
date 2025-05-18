@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou Daniel Calebe e aqui eu compartilho um pouco do meu trabalho com você.
 <div style="text-align: center;">
-  <img src="https://pa1.aminoapps.com/6926/f1bd065426066cdc8fc7f18cddab46b2a0713e39r1-500-355_hq.gif" alt="Minha Imagem">
+  <img style="text-center" src="https://pa1.aminoapps.com/6926/f1bd065426066cdc8fc7f18cddab46b2a0713e39r1-500-355_hq.gif" alt="Minha Imagem">
 </div>
 
 
