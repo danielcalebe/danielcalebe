@@ -50,12 +50,12 @@ Aqui estão algumas das tecnologias e linguagens que eu uso e gosto:
 </div>
 <br> </br>
 
-<div>
+
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danielcalebe&theme=dark" />
   <br> </br>
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielcalebe&theme=github" />
-</div>
+<!--<div>  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielcalebe&theme=github" />
+</div>-->
 
 ---
 
