@@ -1,69 +1,70 @@
-## Olá, pessoal 👋
+## 👋 Olá, eu sou Daniel Calebe
 
-Bem-vindo ao meu perfil no GitHub! Sou Daniel Calebe e aqui eu compartilho um pouco do meu trabalho com você.
-<div style="text-align: center;">
-  <img style="text-center" src="https://pa1.aminoapps.com/6926/f1bd065426066cdc8fc7f18cddab46b2a0713e39r1-500-355_hq.gif" alt="Minha Imagem">
+Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados e experiências no mundo do desenvolvimento web.  
+
+<div align="center">
+  <img src="https://pa1.aminoapps.com/6926/f1bd065426066cdc8fc7f18cddab46b2a0713e39r1-500-355_hq.gif" alt="Minha Imagem" width="300"/>
 </div>
 
+---
 
-### 🌱 Atualmente estou aprendendo...
-- Conceitos intermediários em [Laravel](https://laravel.com/).
-- Segurança em [EndPoint](https://aws.amazon.com/pt/what-is/endpoint-security/).
+### 🌱 Atualmente estou aprendendo
+- Conceitos intermediários em **[Laravel](https://laravel.com/)**  
+- Segurança em **[API EndPoints](https://aws.amazon.com/pt/what-is/endpoint-security/)**  
 
-### 📫 Como me encontrar:
-- **Email**: [danielcalebe719@gmail.com](mailto:danielcalebe719@gmail.com)
-- **LinkedIn**: [Daniel Calebe](https://www.linkedin.com/in/daniel-calebe/)
+---
+
+### 📫 Como me encontrar
+<div align="center">
+  <a href="mailto:danielcalebe719@gmail.com"><img src="https://img.shields.io/badge/Email-danielcalebe719@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/daniel-calebe/"><img src="https://img.shields.io/badge/LinkedIn-DanielCalebe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
 ---
 
 ### 🛠 Tecnologias e Linguagens
-
-Aqui estão algumas das tecnologias e linguagens que eu uso e gosto:
-
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50"/>
-
-
 </div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
-### Estatísticas do GitHub
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcalebe&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcalebe&layout=compact&theme=dark" />
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielcalebe&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcalebe&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
 </div>
-<br> </br>
-
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danielcalebe&theme=dark" />
-  <br> </br>
-
-<!--<div>  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielcalebe&theme=github" />
-</div>-->
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcalebe&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
-### 📚 Projetos Interessantes
+### 📚 Projetos Recentes
+<div align="center">
+  <a href="https://github.com/danielcalebe/gippe">
+    <img src="https://img.shields.io/badge/Projeto-Gippe-4CAF50?style=for-the-badge" alt="Projeto Gippe"/>
+  </a>
+</div>
 
-Confira alguns dos meus projetos favoritos:
-- **[Projeto Gippe](https://github.com/danielcalebe/gippe)**: Um projeto em Laravel e PHP que aborda e soluciona o problema da má gestão de buffets no Brasil, ele trás um sistema ERP e Ecommerce, o que é amplamente visto. Porém nunca antes no setor
+**Gippe** é um sistema ERP + Ecommerce feito em Laravel e PHP, focado em otimizar a gestão de buffets no Brasil.  
+Ele traz soluções práticas que ainda não são amplamente exploradas no setor.  
 
-### 💡Converse comigo!
+---
 
+### 💡 Vamos conversar?
+Sinta-se à vontade para me contatar para dúvidas, projetos ou colaborações.  
 
+<div align="center">
+  <a href="mailto:danielcalebe719@gmail.com">📧 Enviar Email</a> •
+  <a href="https://www.linkedin.com/in/daniel-calebe/">🔗 LinkedIn</a>
+</div>
