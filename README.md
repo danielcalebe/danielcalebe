@@ -1,16 +1,16 @@
-## 👋 Olá, eu sou Daniel Calebe
+## 👋 Olá, pessoal!
 
-Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados e experiências no mundo do desenvolvimento web.  
+Bem-vindo ao meu perfil no GitHub! Sou **Daniel Calebe** e aqui compartilho meus projetos, aprendizados e experiências em desenvolvimento web.  
 
 <div align="center">
-  <img src="https://pa1.aminoapps.com/6926/f1bd065426066cdc8fc7f18cddab46b2a0713e39r1-500-355_hq.gif" alt="Minha Imagem" width="300"/>
+  <img src="https://pa1.aminoapps.com/6926/f1bd065426066cdc8fc7f18cddab46b2a0713e39r1-500-355_hq.gif" alt="Minha Imagem" width="250"/>
 </div>
 
 ---
 
 ### 🌱 Atualmente estou aprendendo
-- Conceitos intermediários em **[Laravel](https://laravel.com/)**  
-- Segurança em **[API EndPoints](https://aws.amazon.com/pt/what-is/endpoint-security/)**  
+- 💻 Conceitos intermediários em **[Laravel](https://laravel.com/)**  
+- 🔒 Segurança em **[API EndPoints](https://aws.amazon.com/pt/what-is/endpoint-security/)**  
 
 ---
 
@@ -24,15 +24,26 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados 
 
 ### 🛠 Tecnologias e Linguagens
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="50"/>
+</div>
+
+---
+
+### 🐍 Contribuições no GitHub
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -42,29 +53,21 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados 
   <img src="https://github-readme-stats.vercel.app/api?username=danielcalebe&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcalebe&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
 </div>
-<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcalebe&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 📚 Projetos Recentes
-<div align="center">
-  <a href="https://github.com/danielcalebe/gippe">
-    <img src="https://img.shields.io/badge/Projeto-Gippe-4CAF50?style=for-the-badge" alt="Projeto Gippe"/>
-  </a>
-</div>
-
-**Gippe** é um sistema ERP + Ecommerce feito em Laravel e PHP, focado em otimizar a gestão de buffets no Brasil.  
-Ele traz soluções práticas que ainda não são amplamente exploradas no setor.  
+### 📚 Projetos em destaque
+- **[Projeto Gippe](https://github.com/danielcalebe/gippe)**  
+  Sistema ERP + Ecommerce em Laravel e PHP focado em otimizar a gestão de buffets no Brasil.  
 
 ---
 
 ### 💡 Vamos conversar?
-Sinta-se à vontade para me contatar para dúvidas, projetos ou colaborações.  
-
 <div align="center">
-  <a href="mailto:danielcalebe719@gmail.com">📧 Enviar Email</a> •
+  <a href="mailto:danielcalebe719@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/daniel-calebe/">🔗 LinkedIn</a>
 </div>
