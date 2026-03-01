@@ -8,9 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Sou **Daniel Calebe** e aqui compartilho meus
 
 ---
 
-### 🌱 Atualmente estou aprendendo
-- 💻 Conceitos intermediários em **[Laravel](https://laravel.com/)**  
-- 🔒 Segurança em **[API EndPoints](https://aws.amazon.com/pt/what-is/endpoint-security/)**  
+
 
 ---
 
