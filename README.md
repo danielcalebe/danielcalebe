@@ -1,72 +1,108 @@
-## 👋 Olá, pessoal!
+<h1 align="center" style="color:#c084fc;">Daniel Calebe</h1>
 
-Bem-vindo ao meu perfil no GitHub! Sou **Daniel Calebe** e aqui compartilho meus projetos, aprendizados e experiências em desenvolvimento web.  
+<p align="center" style="color:#ddd6fe;">
+  <i>Today, I am better than I was yesterday</i>
+</p>
 
-<div align="center">
-  <img src="https://pa1.aminoapps.com/6926/f1bd065426066cdc8fc7f18cddab46b2a0713e39r1-500-355_hq.gif" alt="Minha Imagem" width="250"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=C084FC&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Systems+and+APIs;Projects+focused+on+real+business+needs" />
+</p>
+
+---
+
+<div style="background: linear-gradient(90deg, #0f0f0f, #2e1065); padding: 15px; border-radius: 10px;">
+
+## 🟣 About
+<p style="color:#e9d5ff;">
+Developer focused on building complete applications, with experience in web development, API integration, and systems designed for real-world use.
+</p>
+
 </div>
 
 ---
 
+<div style="background: linear-gradient(90deg, #0f0f0f, #3b0764); padding: 15px; border-radius: 10px;">
 
+## 🟣 Contact
+<p align="center">
+  <a href="mailto:danielcalebe719@gmail.com">
+    <img src="https://img.shields.io/badge/email-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-calebe/">
+    <img src="https://img.shields.io/badge/linkedin-c084fc?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
 
-
-
-### 📫 Como me encontrar
-<div align="center">
-  <a href="mailto:danielcalebe719@gmail.com"><img src="https://img.shields.io/badge/Email-danielcalebe719@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/daniel-calebe/"><img src="https://img.shields.io/badge/LinkedIn-DanielCalebe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
 
-### 🛠 Tecnologias e Linguagens
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="jQuery" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind CSS" width="50"/>
-</div>
----
+## 🟣 Technologies
 
-### 🐍 Contribuições no GitHub
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-light.svg">
-    <img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-light.svg" alt="GitHub contribution grid snake" width="100%" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,python,mysql,git,bootstrap,jquery,nodejs,tailwind&theme=dark" />
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielcalebe&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcalebe&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
-</div>
+<div style="background: linear-gradient(90deg, #0a0a0a, #4c1d95); padding: 15px; border-radius: 10px;">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcalebe&theme=dark&hide_border=true" alt="GitHub Streak"/>
+## 🟣 Statistics
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcalebe&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcalebe&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=danielcalebe&theme=midnight-purple&hide_border=true"/>
+</p>
+
 </div>
 
 ---
 
-### 📚 Projetos em destaque
-- **[Projeto Gippe](https://github.com/danielcalebe/gippe)**  
-  Sistema ERP + Ecommerce em Laravel e PHP focado em otimizar a gestão de buffets no Brasil.  
+## 🟣 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielcalebe&theme=react-dark&color=c084fc&line=a855f7&point=ddd6fe&hide_border=true"/>
+</p>
 
 ---
 
-### 💡 Vamos conversar?
-<div align="center">
-  <a href="mailto:danielcalebe719@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/daniel-calebe/">🔗 LinkedIn</a>
+## 🟣
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<div style="background: linear-gradient(90deg, #0f0f0f, #581c87); padding: 15px; border-radius: 10px;">
+
+## 🟣 Featured Project
+
+### <span style="color:#ddd6fe;">Gippe</span>
+<p style="color:#e9d5ff;">
+ERP + E-commerce system developed in Laravel, focused on buffet management.
+</p>
+
+🔗 https://github.com/danielcalebe/gippe
+
 </div>
+
+---
+
+<div style="background: linear-gradient(90deg, #0a0a0a, #6d28d9); padding: 15px; border-radius: 10px;">
+
+## 🟣 Goal
+<p style="color:#f3e8ff;">
+To build efficient, scalable solutions aligned with real-world problems.
+</p>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:c084fc&height=120&section=footer"/>
+</p>
