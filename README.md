@@ -72,7 +72,7 @@ Developer focused on building complete applications, with experience in web deve
 
 ## 🟣
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/danielcalebe/danielcalebe/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
